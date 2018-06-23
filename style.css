@@ -1,0 +1,16 @@
+.red{
+  color: red;
+}
+span{
+  font-size: 25px
+
+}
+.images{
+      display: flex;
+      align-items: flex-start;
+      transition: all 0.5s;
+}
+.window{
+      width: 275px;
+      overflow: hidden;
+}
